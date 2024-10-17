@@ -1,15 +1,30 @@
 - model: shop.product
   pk: 1
   fields:
-    name: Стол
-    price: 2000
+    name: Шуба из ценного меха
+    price: 99999
+    quantity: 5
 - model: shop.product
   pk: 2
   fields:
-    name: Стул
-    price: 1000
+    name: Произведение искусства
+    price: 39999
+    quantity: 10
 - model: shop.product
   pk: 3
   fields:
-    name: Табурет
-    price: 500
+    name: Антикварный табурет
+    price: 499999
+    quantity: 10000
+- model: shop.product
+  pk: 4
+  fields:
+    name: Яхта подержанная
+    price: 109999999
+    quantity: 2
+- model: shop.product
+  pk: 5
+  fields:
+    name: Золотой слиток
+    price: 8458550
+    quantity: 10
